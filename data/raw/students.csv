@@ -1,0 +1,304 @@
+student_id,gender,age_band,region,highest_education,final_result
+1001,M,0-35,Chennai,Graduate,Withdrawn
+1002,M,0-35,Bengaluru,Graduate,Pass
+1003,M,0-35,Delhi,Postgraduate,Pass
+1004,F,0-35,Mumbai,Postgraduate,Fail
+1005,F,0-35,Delhi,Postgraduate,Fail
+1006,F,35-55,Kolkata,Postgraduate,Distinction
+1007,M,35-55,Kolkata,Graduate,Pass
+1008,F,0-35,bengaluru,Postgraduate,Fail
+1009,M,35-55,Chennai,Postgraduate,Withdrawn
+1010,M,35-55,Delhi,Graduate,Pass
+1011,M,0-35,Chennai,Postgraduate,Fail
+1012,F,0-35,Delhi,Class 12,Pass
+1013,M,35-55,Kolkata,Postgraduate,Pass
+1014,M,55<=,Kolkata,Postgraduate,Pass
+1015,M,35-55,Bengaluru,Class 12,Distinction
+1016,M,35-55,Mumbai,Graduate,Withdrawn
+1017,M,55<=,Mumbai,Class 12,Withdrawn
+1018,M,0-35,Delhi,Postgraduate,Withdrawn
+1019,M,35-55,Chennai,Postgraduate,Pass
+1020,M,0-35,Chennai,Graduate,Fail
+1021,M,55<=,Kolkata,Postgraduate,Distinction
+1022,M,0-35,Kolkata,Class 12,Pass
+1023,F,0-35,Delhi,Graduate,Pass
+1024,M,35-55,Mumbai,Graduate,Fail
+1025,F,0-35,Chennai,Class 12,Distinction
+1026,F,35-55,Mumbai,Graduate,Withdrawn
+1027,M,0-35,Delhi,Graduate,Withdrawn
+1028,M,55<=,Bengaluru,Graduate,Pass
+1029,M,35-55,Kolkata,Graduate,Pass
+1030,M,0-35,Chennai,Postgraduate,Pass
+1031,M,35-55,Mumbai,Graduate,Pass
+1032,M,0-35,Bengaluru,Postgraduate,Pass
+1033,M,35-55,Delhi,Graduate,Distinction
+1034,M,35-55,Chennai,Graduate,Withdrawn
+1035,F,35-55,Bengaluru,Graduate,Pass
+1036,M,0-35,Bengaluru,Graduate,Pass
+1037,F,0-35,Mumbai,Graduate,Withdrawn
+1038,M,35-55,Kolkata,Graduate,Pass
+1039,F,0-35,Delhi,Class 12,Pass
+1040,M,0-35,Delhi,Graduate,Fail
+1041,F,0-35,Mumbai,Graduate,Pass
+1042,F,0-35,Bengaluru,Graduate,Fail
+1043,M,35-55,Kolkata,Postgraduate,Withdrawn
+1044,F,0-35,Chennai,Graduate,Fail
+1045,M,0-35,Mumbai,Postgraduate,Pass
+1046,M,55<=,DELHI,Postgraduate,Fail
+1047,F,0-35,Mumbai,Postgraduate,Pass
+1048,F,35-55,DELHI,Postgraduate,Pass
+1049,M,0-35,Delhi,Class 12,Fail
+1050,F,35-55,Kolkata,Graduate,Pass
+1051,F,35-55,Delhi,Class 12,Distinction
+1052,F,35-55,Delhi,Postgraduate,Pass
+1053,M,0-35,Chennai,Graduate,Pass
+1054,F,0-35,Mumbai ,Graduate,Pass
+1055,M,35-55,Chennai,Postgraduate,Pass
+1056,F,0-35,Delhi,Class 12,Fail
+1057,F,0-35,Mumbai,Graduate,Fail
+1058,F,0-35,Chennai,Graduate,Pass
+1059,F,55<=,Kolkata,Class 12,Pass
+1060,F,35-55,Chennai,Graduate,Withdrawn
+1061,M,35-55,Chennai,Postgraduate,Pass
+1062,M,35-55,Chennai,Class 12,Withdrawn
+1063,F,0-35,Mumbai,Graduate,Withdrawn
+1064,M,0-35,Mumbai,Graduate,Fail
+1065,F,0-35,Chennai,Graduate,Fail
+1066,M,35-55,Delhi,Class 12,Pass
+1067,F,0-35,Kolkata,Postgraduate,Pass
+1068,M,35-55,Kolkata,Postgraduate,Pass
+1069,M,35-55,Mumbai,Class 12,Fail
+1070,M,0-35,Mumbai,Graduate,Distinction
+1071,M,0-35,Mumbai,Graduate,Pass
+1072,M,0-35,Kolkata,Graduate,Pass
+1073,M,55<=,Kolkata,Graduate,Fail
+1074,F,35-55,Delhi,Class 12,Withdrawn
+1075,F,35-55,Chennai,Class 12,Distinction
+1076,F,0-35,Delhi,Postgraduate,Pass
+1077,F,0-35,Chennai,Graduate,Distinction
+1078,F,0-35,Mumbai,Postgraduate,Pass
+1079,F,0-35,Mumbai,Graduate,Withdrawn
+1080,M,0-35,Chennai,Postgraduate,Withdrawn
+1081,F,0-35,Mumbai,Class 12,Pass
+1082,M,55<=,Mumbai,Class 12,Pass
+1083,M,0-35,Kolkata,Postgraduate,Withdrawn
+1084,F,0-35,Bengaluru,Postgraduate,Pass
+1085,M,35-55,Delhi,Graduate,Distinction
+1086,F,0-35,Mumbai,Graduate,Withdrawn
+1087,F,35-55,Bengaluru,Graduate,Pass
+1088,F,35-55,Chennai,Graduate,Withdrawn
+1089,F,35-55,Mumbai,Class 12,Pass
+1090,F,35-55,Chennai,Postgraduate,Pass
+1091,M,0-35,Delhi,Graduate,Distinction
+1092,F,35-55,Delhi,Graduate,Pass
+1093,M,0-35,Kolkata,Class 12,Pass
+1094,M,0-35,Chennai,Class 12,Fail
+1095,M,0-35,Kolkata,Graduate,Withdrawn
+1096,M,0-35,Mumbai,Graduate,Fail
+1097,F,35-55,Bengaluru,Graduate,Pass
+1098,M,0-35,Chennai,Class 12,Fail
+1099,F,0-35,Kolkata,Postgraduate,Distinction
+1100,F,0-35,Delhi,Graduate,Distinction
+1101,F,35-55,Delhi,Postgraduate,Pass
+1102,F,0-35,Kolkata,Class 12,Withdrawn
+1103,M,35-55,Bengaluru,Graduate,Pass
+1104,M,35-55,Bengaluru,Graduate,Fail
+1105,F,0-35,Mumbai,Graduate,Fail
+1106,F,35-55,Delhi,Graduate,Withdrawn
+1107,F,0-35,Bengaluru,Class 12,Pass
+1108,M,0-35,Kolkata,Graduate,Withdrawn
+1109,M,35-55,Mumbai,Graduate,Pass
+1110,M,35-55,Kolkata,Graduate,Distinction
+1111,M,0-35,Bengaluru,Class 12,Pass
+1112,M,0-35,Mumbai,Graduate,Fail
+1113,F,0-35,Kolkata,Graduate,Fail
+1114,M,0-35,Kolkata,Graduate,Pass
+1115,F,35-55,Chennai,Graduate,Pass
+1116,F,35-55,Kolkata,Graduate,Pass
+1117,F,35-55,Mumbai,Postgraduate,Distinction
+1118,M,0-35,Bengaluru,Graduate,Fail
+1119,M,35-55,Bengaluru,,Pass
+1120,F,35-55,Bengaluru,Postgraduate,Pass
+1121,M,35-55,Kolkata,Graduate,Withdrawn
+1122,F,0-35,Delhi,Postgraduate,Pass
+1123,F,0-35,Mumbai,Postgraduate,Pass
+1124,M,0-35,Chennai,Class 12,Fail
+1125,F,0-35,Bengaluru,Graduate,Fail
+1126,M,0-35,Chennai,Graduate,Distinction
+1127,M,0-35,Chennai,Postgraduate,Withdrawn
+1128,F,35-55,Delhi,Graduate,Fail
+1129,F,0-35,Kolkata,Class 12,Withdrawn
+1130,M,35-55,Mumbai,Graduate,Fail
+1131,F,0-35,Delhi,Class 12,Fail
+1132,F,35-55,Bengaluru,Postgraduate,Withdrawn
+1133,F,0-35,Delhi,,Withdrawn
+1134,M,0-35,Delhi,Graduate,Fail
+1135,M,35-55,Delhi,Postgraduate,Pass
+1136,F,35-55,Chennai,Graduate,Pass
+1137,F,0-35,Delhi,Graduate,Fail
+1138,F,0-35,Bengaluru,Postgraduate,Fail
+1139,M,35-55,Chennai,Postgraduate,Pass
+1140,M,35-55,Mumbai,Postgraduate,Distinction
+1141,F,0-35,Delhi,Class 12,Fail
+1142,M,0-35,Chennai,Graduate,Pass
+1143,M,0-35,Delhi,Class 12,Pass
+1144,F,35-55,Bengaluru,Postgraduate,Pass
+1145,F,0-35,Mumbai,Graduate,Withdrawn
+1146,M,0-35,Chennai,Graduate,Fail
+1147,M,55<=,Delhi,Class 12,Withdrawn
+1148,M,0-35,Delhi,Graduate,Pass
+1149,F,0-35,Mumbai,Graduate,Distinction
+1150,M,0-35,Delhi,Class 12,Distinction
+1151,F,0-35,Kolkata,Class 12,Withdrawn
+1152,M,0-35,Bengaluru,Postgraduate,Pass
+1153,F,0-35,Bengaluru,Postgraduate,Pass
+1154,F,35-55,Mumbai,Class 12,Distinction
+1155,F,35-55,Kolkata,Graduate,Withdrawn
+1156,F,0-35,Chennai,Postgraduate,Fail
+1157,F,0-35,Delhi,Graduate,Pass
+1158,M,0-35,Delhi,Graduate,Withdrawn
+1159,F,55<=,Chennai,Graduate,Withdrawn
+1160,F,0-35,Chennai,Graduate,Distinction
+1161,F,35-55,Delhi,Class 12,Withdrawn
+1162,M,0-35,Bengaluru,Graduate,Pass
+1163,F,35-55,Kolkata,Class 12,Distinction
+1164,M,0-35,Chennai,Class 12,Pass
+1165,F,35-55,Bengaluru,Graduate,Fail
+1166,F,0-35,Bengaluru,Postgraduate,Pass
+1167,M,35-55,Bengaluru,Postgraduate,Withdrawn
+1168,F,0-35,Mumbai,Graduate,Distinction
+1169,F,35-55,Bengaluru,Graduate,Pass
+1170,M,35-55,Chennai,Graduate,Withdrawn
+1171,M,55<=,Kolkata,Graduate,Withdrawn
+1172,M,0-35,Bengaluru,Graduate,Distinction
+1173,F,0-35,Delhi,Graduate,Withdrawn
+1174,F,0-35,Chennai,Graduate,Pass
+1175,F,0-35,Delhi,Postgraduate,Pass
+1176,F,0-35,Mumbai,Postgraduate,Distinction
+1177,F,55<=,Chennai,Class 12,Pass
+1178,M,55<=,Bengaluru,Graduate,Distinction
+1179,M,0-35,Bengaluru,Class 12,Distinction
+1180,M,35-55,Mumbai,Graduate,Withdrawn
+1181,M,35-55,Mumbai,Graduate,Pass
+1182,F,55<=,Chennai,Class 12,Withdrawn
+1183,M,0-35,Bengaluru,Postgraduate,Pass
+1184,M,0-35,Bengaluru,Graduate,Pass
+1185,M,35-55,Mumbai,Postgraduate,Pass
+1186,M,0-35,Delhi,Class 12,Pass
+1187,M,0-35,Kolkata,Class 12,Pass
+1188,M,55<=,Mumbai,Graduate,Pass
+1189,F,55<=,Delhi,Class 12,Fail
+1190,M,35-55,Delhi,Graduate,Fail
+1191,M,35-55,Chennai,Postgraduate,Withdrawn
+1192,M,0-35,Mumbai,Class 12,Withdrawn
+1193,F,0-35,Chennai,Class 12,Fail
+1194,F,0-35,Mumbai,Graduate,Pass
+1195,F,0-35,kolkata,Graduate,Withdrawn
+1196,F,0-35,Kolkata,Graduate,Distinction
+1197,F,35-55,Chennai,Graduate,Pass
+1198,F,0-35,Delhi,Postgraduate,Withdrawn
+1199,M,35-55,Chennai,Class 12,Withdrawn
+1200,F,0-35,Kolkata ,Graduate,Fail
+1201,M,0-35,Mumbai,Graduate,Distinction
+1202,M,0-35,Mumbai,Postgraduate,Fail
+1203,F,0-35,Chennai,Graduate,Fail
+1204,M,35-55,Mumbai,Graduate,Distinction
+1205,M,0-35,Chennai,Class 12,Distinction
+1206,F,0-35,Mumbai,Class 12,Pass
+1207,M,35-55,Mumbai,Class 12,Withdrawn
+1208,M,0-35,Kolkata,Graduate,Fail
+1209,F,0-35,Chennai,Graduate,Withdrawn
+1210,F,0-35,Chennai,Graduate,Fail
+1211,M,0-35,Kolkata,Class 12,Pass
+1212,F,35-55,Mumbai,Postgraduate,Fail
+1213,F,0-35,Delhi,Postgraduate,Pass
+1214,M,0-35,Bengaluru,Class 12,Fail
+1215,M,0-35,Delhi,Class 12,Fail
+1216,M,0-35,Chennai,Class 12,Pass
+1217,M,0-35,Mumbai,Postgraduate,Distinction
+1218,M,35-55,Mumbai,Class 12,Distinction
+1219,M,0-35,Delhi,Graduate,Pass
+1220,M,35-55,BENGALURU,Graduate,Fail
+1221,M,0-35,Chennai,Postgraduate,Withdrawn
+1222,M,0-35,Mumbai,Graduate,Fail
+1223,M,0-35,Kolkata,Graduate,Fail
+1224,M,35-55,Delhi,Postgraduate,Distinction
+1225,M,35-55,Chennai,Class 12,Fail
+1226,F,0-35,Chennai,Postgraduate,Pass
+1227,M,0-35,Chennai,Class 12,Pass
+1228,F,35-55,Delhi,Graduate,Withdrawn
+1229,F,0-35,Bengaluru,Postgraduate,Pass
+1230,F,0-35,Mumbai,Graduate,Pass
+1231,F,0-35,Kolkata,Graduate,Pass
+1232,M,35-55,Kolkata,Graduate,Fail
+1233,F,35-55,Mumbai,Graduate,Pass
+1234,M,0-35,Delhi,Graduate,Pass
+1235,M,55<=,Mumbai,Graduate,Fail
+1236,M,0-35,Bengaluru,Graduate,Fail
+1237,M,0-35,Bengaluru,Graduate,Withdrawn
+1238,M,0-35,Bengaluru,Graduate,Withdrawn
+1239,M,0-35,Mumbai,Graduate,Pass
+1240,F,0-35,Kolkata,Graduate,Pass
+1241,F,0-35,Delhi,Class 12,Fail
+1242,M,0-35,Kolkata,Postgraduate,Pass
+1243,F,35-55,Chennai,Graduate,Distinction
+1244,M,0-35,Kolkata,Class 12,Pass
+1245,M,0-35,Kolkata,Graduate,Pass
+1246,F,35-55,Bengaluru,Postgraduate,Pass
+1247,F,35-55,chennai,Class 12,Withdrawn
+1248,M,35-55,Mumbai ,Class 12,Pass
+1249,M,35-55,Chennai,Class 12,Fail
+1250,M,35-55,Delhi,Class 12,Distinction
+1251,M,0-35,Delhi,Postgraduate,Withdrawn
+1252,M,0-35,Chennai,Postgraduate,Distinction
+1253,F,35-55,Bengaluru,Class 12,Fail
+1254,F,0-35,Chennai,Graduate,Distinction
+1255,M,0-35,Kolkata,Class 12,Pass
+1256,F,0-35,Delhi,Graduate,Withdrawn
+1257,M,0-35,Chennai,Postgraduate,Pass
+1258,M,0-35,Kolkata,Graduate,Fail
+1259,M,0-35,Mumbai,Class 12,Distinction
+1260,F,35-55,Delhi,Graduate,Withdrawn
+1261,F,35-55,Delhi,Postgraduate,Distinction
+1262,F,0-35,Bengaluru,Graduate,Distinction
+1263,M,35-55,Kolkata,Class 12,Pass
+1264,F,0-35,Mumbai,Class 12,Withdrawn
+1265,M,35-55,Mumbai,Graduate,Fail
+1266,M,55<=,Delhi,Graduate,Pass
+1267,F,0-35,Bengaluru,Postgraduate,Distinction
+1268,M,35-55,Delhi,Postgraduate,Withdrawn
+1269,F,55<=,Kolkata,Postgraduate,Pass
+1270,F,35-55,Mumbai,Postgraduate,Fail
+1271,F,55<=,Mumbai,Class 12,Fail
+1272,M,0-35,Mumbai,Graduate,Pass
+1273,M,0-35,Bengaluru,Graduate,Withdrawn
+1274,F,35-55,Delhi,Graduate,Fail
+1275,F,35-55,Mumbai,Postgraduate,Pass
+1276,F,35-55,Mumbai,Graduate,Fail
+1277,F,0-35,Mumbai,Postgraduate,Withdrawn
+1278,M,0-35,Delhi,Graduate,Fail
+1279,M,0-35,Bengaluru,Graduate,Pass
+1280,F,35-55,Mumbai,Graduate,Distinction
+1281,M,0-35,Chennai,Class 12,Fail
+1282,F,35-55,Mumbai,Class 12,Fail
+1283,M,35-55,Bengaluru,Graduate,Distinction
+1284,F,0-35,Mumbai,Class 12,Withdrawn
+1285,F,0-35,Mumbai,Postgraduate,Fail
+1286,M,0-35,Mumbai,Class 12,Pass
+1287,M,55<=,Mumbai,Class 12,Fail
+1288,F,35-55,delhi,Postgraduate,Pass
+1289,M,0-35,Kolkata,Class 12,Distinction
+1290,F,0-35,Delhi,Postgraduate,Pass
+1291,F,0-35,Mumbai,Graduate,Withdrawn
+1292,F,0-35,Mumbai,Class 12,Fail
+1293,M,55<=,Mumbai,Graduate,Pass
+1294,F,35-55,Kolkata,Graduate,Withdrawn
+1295,M,0-35,Chennai,Postgraduate,Withdrawn
+1296,F,35-55,Bengaluru,Postgraduate,Fail
+1297,F,0-35,Mumbai,Graduate,Pass
+1298,M,35-55,Bengaluru,Graduate,Pass
+1299,M,0-35,Delhi,Graduate,Pass
+1300,M,35-55,Chennai,Graduate,Pass
+1006,F,35-55,Kolkata,Postgraduate,Distinction
+1051,F,35-55,Delhi,Class 12,Distinction
+1121,M,35-55,Kolkata,Graduate,Withdrawn
